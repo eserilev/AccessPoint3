@@ -1,0 +1,159 @@
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\roslyn\csc.exe
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\roslyn\System.Collections.Immutable.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\roslyn\vbc.exe
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\roslyn\VBCSCompiler.exe
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\roslyn\VBCSCompiler.exe.config
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\AccessPoint3.dll.config
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\AccessPoint3.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\AccessPoint3.pdb
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\WebForms_Basic.xml
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Antlr3.Runtime.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Microsoft.Web.Infrastructure.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Newtonsoft.Json.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\System.Web.Optimization.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\WebGrease.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\System.Web.Optimization.xml
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Antlr3.Runtime.pdb
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Newtonsoft.Json.xml
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\obj\Debug\AccessPoint3.vbprojResolveAssemblyReference.cache
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\obj\Debug\AccessPoint3.Resources.resources
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\obj\Debug\AccessPoint3.vbproj.GenerateResource.Cache
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\obj\Debug\AccessPoint3.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\obj\Debug\WebForms_Basic.xml
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\obj\Debug\AccessPoint3.pdb
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\obj\Debug\AccessPoint3.dll.licenses
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Infragistics45.Web.v15.2.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Reports.v15.2.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\EnvDTE.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Excel.v15.2.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Word.v15.2.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.IO.v15.2.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\stdole.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Core.v15.2.dll
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Infragistics45.Web.v15.2.xml
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Reports.v15.2.xml
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Excel.v15.2.xml
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Word.v15.2.xml
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.IO.v15.2.xml
+c:\users\eitan\documents\visual studio 2015\Projects\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Core.v15.2.xml
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\csc.exe
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\vbc.exe
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\AccessPoint3.dll.config
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\AccessPoint3.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\AccessPoint3.pdb
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\WebForms_Basic.xml
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Antlr3.Runtime.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.Web.v15.2.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Newtonsoft.Json.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\System.Web.Optimization.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\WebGrease.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Reports.v15.2.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\EnvDTE.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Excel.v15.2.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Word.v15.2.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.IO.v15.2.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\stdole.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Core.v15.2.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.Web.v15.2.xml
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\System.Web.Optimization.xml
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Antlr3.Runtime.pdb
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Newtonsoft.Json.xml
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Reports.v15.2.xml
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Excel.v15.2.xml
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Word.v15.2.xml
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.IO.v15.2.xml
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Core.v15.2.xml
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\obj\Debug\AccessPoint3.vbprojResolveAssemblyReference.cache
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\obj\Debug\AccessPoint3.Resources.resources
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\obj\Debug\AccessPoint3.vbproj.GenerateResource.Cache
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\obj\Debug\AccessPoint3.dll.licenses
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\obj\Debug\AccessPoint3.dll
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\obj\Debug\WebForms_Basic.xml
+C:\Users\Eitan\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\obj\Debug\AccessPoint3.pdb
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\csc.exe
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\vbc.exe
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\VBCSCompiler.exe
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\AccessPoint3.dll.config
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\AccessPoint3.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\AccessPoint3.pdb
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\WebForms_Basic.xml
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Antlr3.Runtime.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Newtonsoft.Json.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\System.Web.Optimization.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\WebGrease.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Reports.v15.2.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Excel.v15.2.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Word.v15.2.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.IO.v15.2.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Core.v15.2.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.Web.v15.2.xml
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\System.Web.Optimization.xml
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Antlr3.Runtime.pdb
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Newtonsoft.Json.xml
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Reports.v15.2.xml
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Excel.v15.2.xml
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Word.v15.2.xml
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.IO.v15.2.xml
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\bin\Infragistics45.WebUI.Documents.Core.v15.2.xml
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\obj\Debug\AccessPoint3.vbprojResolveAssemblyReference.cache
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\obj\Debug\AccessPoint3.Resources.resources
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\obj\Debug\AccessPoint3.vbproj.GenerateResource.Cache
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\obj\Debug\AccessPoint3.dll.licenses
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\obj\Debug\AccessPoint3.dll
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\obj\Debug\WebForms_Basic.xml
+C:\Users\agoodale\Dropbox\Eitan\Current Project\AccessPoint3\AccessPoint3\obj\Debug\AccessPoint3.pdb

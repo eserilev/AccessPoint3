@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<xmlConfig>
+  <connectionString>
+    <con>Data Source=EITAN-PC\SQLEXPRESS;Initial Catalog=GSIWEB_AIPA;User ID=gsiweb;Password=gsiweb2016</con>
+  </connectionString>
+  
+</xmlConfig>

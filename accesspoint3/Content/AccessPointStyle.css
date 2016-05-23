@@ -1,0 +1,432 @@
+﻿/*FONT*/ 
+.siteFont
+{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size:12px;
+}
+
+.navFont{
+    font-family:Lato;
+    font-size: 16px;
+}
+
+/*General Page stuff*/
+
+
+.pageContainer{
+    position:center; 
+    padding-left:300px; 
+    padding-top:100px; 
+    padding-bottom:0px; 
+}
+
+
+/*Horizontal Navbar*/
+#horizNav{
+    list-style:none;
+    width:100%;
+    margin-bottom:5px;
+    background-color: #3E7ACC;
+
+}
+
+#horizNav:after{
+    content:"";
+    clear: both;
+    display: table;
+}
+/**********WEBTAB**WEBTAB**WEBTAB**********/
+
+.firstTabInputTitle{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:10px;
+    float:right;
+    padding-top: 15px;
+    padding-left:20px;
+}
+
+.tabInputTitle{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:10px;
+    float:right;
+    padding-top: 15px;
+    padding-left:50px;
+}
+
+
+
+
+
+.tabInput{
+    margin-left:0px;
+    padding-top:10px;
+}
+
+.tabButtons{
+  position: absolute; /*right:0; bottom:0;*/
+  padding-left:600px;
+  padding-bottom:100px;  
+}
+.tabButtons2{
+ float:right;
+ padding-top:15px;
+ overflow:hidden;
+ padding-left:15px;   
+
+}
+.tabButtons3{
+  position: relative; /*right:0; bottom:0;*/
+  float:right;
+  display:inline
+}
+
+
+/*WEBTAB HEADER*/
+.tabHeader{
+   background-color: white !important;
+   border-top: 0px;
+   border-left: 0px;
+   border-right: 0px;
+   border-bottom: 1px solid #CCCCCC;
+   color:  #3E7ACC;
+
+}
+
+.footer{
+   fill: blue;
+   background-color: blue;
+}
+
+
+
+
+
+
+.igtab_THTextSel
+{
+	color: white;
+}
+
+
+
+.igtab_THTextHov
+{
+	color: white;
+}
+
+/*WEBTAB text*/
+.igtab_THText
+{
+	color: #3E7ACC;
+	
+}
+
+/*WEBTAB hover*/
+.igtab_THTabHov
+{
+	background-color:#3E7ACC;
+}
+.igtab_THTextHov
+{
+	color: white;
+}
+.igtab_THTabHov
+{
+	background-color:#3E7ACC;
+
+}
+.igtab_THCenterHov
+{
+	background-color:#3E7ACC;
+}
+.igtab_THTailHov
+{
+	background-color:#3E7ACC;
+}
+/*WEB TAB SELECTOR*/
+
+.igtab_THCenterSel
+{
+    background: #3E7ACC;
+    color: white;
+}
+.igtab_THTailSel
+{
+	background: #3E7ACC;
+    color: white;
+}
+.igtab_THTabSel
+{
+	background: #3E7ACC;
+    color: white;
+}
+.igtab_THTextSel
+{
+	color: white;
+}
+/*DATAGRID HEADER*/
+.igg_Header
+{
+    background-color: white  !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.igg_HeaderCaption
+{
+     font-family: Lato;
+     text-align: left;
+     color: black !important;
+     border-top: none;
+     border-left: none;
+     border-right: none;
+     border-bottom: solid 1px #3E7ACC;
+     font-size:16px
+
+
+}
+/*DATAGRID FOOTER*/
+.igg_Pager
+{
+	background-color:#3E7ACC;
+	border:none;
+	padding-left:10px;
+	line-height: 40px;
+	color:#1E395B;
+	text-align:left;
+}
+    .igg_Footer
+    {
+	background-color:skyblue;
+	height: 21px;
+	line-height: 21px;
+    }
+/*DATAGRID TEXT*/
+tbody.igg_Item > tr > td 
+{
+     text-align: left;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 14px;
+     height: 40px;
+     width: 50px;
+     white-space:nowrap;
+    
+}
+/*DATAGRID ALT ROWS*/
+tbody > tr.igg_Alt > td 
+{
+     background-color: #F6F6F6;
+}
+/*DATAGRID HOVER*/
+tbody.igg_Item>tr>td
+{
+}
+tbody.igg_Item > tr:hover > td
+{
+}
+
+/*COLLAPSABLE NAVBAR*/        
+  @media (min-width: 768px) {
+  .navbar-collapse {
+    height: auto;
+    border-top: 0;
+    box-shadow: none;
+    max-height: none;
+    padding-left:0;
+    padding-right:0;
+  
+  }
+  .navbar-collapse.collapse {
+    display: block !important;
+    width: auto !important;
+    padding-bottom: 0;
+    overflow: visible !important;
+    border: none !important;
+    background: white !important;
+  }
+  .navbar-collapse.in {
+    overflow-x: visible;
+  }
+/*NAVBAR GENERAL*/
+.navbar
+{
+	min-width:230px;
+    max-width:200px;
+	margin-right: 0;
+	margin-left: 0;
+    border: 0px !important;
+    background: white !important;
+}	
+
+/*NAVBAR TEXT*/
+.navbar .navbar-nav > li > a,
+.navbar .navbar-nav > td > tr 
+{
+    color: #3E7ACC !important;
+    text-decoration: underline solid;
+    opacity: 1;
+    font-family:Lato;
+    font-size: 16px;
+}
+/*NAVBAR HOVER*/
+.navbar .navbar-nav > li > a:hover,
+.navbar  .navbar-nav > li > a:focus
+{
+     text-decoration: none  !important;
+     color:  white !important;
+     background-color: #3E7ACC !important; 
+       
+}
+
+.navbar-nav,
+.navbar-nav > li,
+.navbar-left,
+.navbar-right,
+.navbar-header
+{float:none !important;}
+
+.navbar-right .dropdown-menu {left:0;right:auto;}
+.navbar-collapse .navbar-nav.navbar-right:last-child {
+    margin-right: 0;
+}
+}
+.caret{border-top:4px solid white !important;}
+
+/*WEB DIALOG WINDOW*/
+.igdw_Control
+{
+	background-color:white;
+	border-width:1px;
+    border-color: #CCCCCC;
+    border-style:solid;
+    opacity: 1;
+    
+}
+
+
+.igdw_HeaderArea
+{
+	background-color: white;
+    opacity: 1;
+	font-weight:normal;
+	border-width:0px;
+	height: 0px;
+	cursor:default;
+	color:Green;
+	font-family:Lato;
+	font-size:32px;
+    
+}
+
+
+.igdw_BodyContent
+{
+	border:solid 0px black;
+    
+}
+
+
+.igdw_HeaderButton
+{
+	margin:4px 3px 3px 3px;
+	cursor:pointer;
+}
+
+.igdw_ModalBackground
+{
+	background-color:Black;
+	filter: alpha(opacity : 50);
+	opacity: 0.8;
+	z-index: 99999;
+}
+
+.headerDetails{
+    border-bottom: 1px; 
+    font-size:20px; 
+    border-bottom-style:solid; 
+    border-color:#3E7ACC;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.rowDetails{
+   height:30px; 
+   border-bottom: .5px; 
+   border-bottom-style:solid; 
+   border-color:lightgray;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.rowClaim{
+   height:30px; 
+   border: none;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.rowWebTab{
+    text-align:right;
+}
+
+.headerClaim{
+    border-bottom: 1px; 
+    font-size:20px; 
+    border-bottom-style:solid; 
+    border-color:#3E7ACC;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:90%;
+    padding-bottom:5px;    
+}
+
+.dialogClaim{
+    border-bottom:1px solid  #3E7ACC;
+    font-size:20px; 
+    color:black;   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top:10px;
+}
+
+
+.txtClaimProcedureGrid{
+    width:10px;
+}
+
+
+
+/*some misc helpers*/
+
+.spanTopRight{
+    position:absolute;
+    top:0;
+    right:0;
+    border-bottom:0px !important;
+}
+.spanBottomRight{
+    position:relative;
+    bottom:0;
+    right:0;
+}
+
+.noBorder{
+    border: none;
+    border-bottom: 1px solid;
+}
+
+.noBorder:hover{
+    border:1px solid #3E7ACC !important;
+}
+
+.glyphicon{
+    font-size:30px;  
+    text-align:center; 
+    color: #3E7ACC;
+}
+
+.rowWebTab{
+    padding-right:10px;
+    padding-bottom:10px;
+}
+
+.modalContainer{
+    position:absolute;
+    right:65%;
+}

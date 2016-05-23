@@ -1,0 +1,27 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site1.master.vb" Inherits="AccessPoint3.Site1" %>
+<%@ Register TagPrefix="uc1" TagName="VertNav" Src="VerticalNavbar.ascx" %>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>   
+</head>
+<body>
+    <form id="form1" runat="server">
+        <script src="Scripts/jquery-1.10.2.js"></script>        
+        <div style="position:center;">
+           <uc1:VertNav ID="VertNav" runat="server">
+            </uc1:VertNav>
+        </div>
+   <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server">
+
+        </asp:ContentPlaceHolder>
+    </div>
+        <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
